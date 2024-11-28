@@ -1,0 +1,33 @@
+# Unreal Engine
+Saved/
+Intermediate/
+DerivedDataCache/
+.vscode/
+
+# Compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.app
+*.log
+
+# Build files
+*.sln
+*.vcxproj*
+*.xcodeproj
+*.xcworkspace
+*.idea/
+
+# Backup and auto-generated files
+*.bak
+*.tmp
+*.lock
+*.pid
+*.pyc
+*.pyo
+*.class
+
+# OS generated files
+.DS_Store
+Thumbs.db
