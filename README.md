@@ -33,7 +33,7 @@ Personagem Walter White na série Breaking Bad.
 
 O personagem foi criado usando a ferramenta Metahuman Creator da Unreal Engine. O personagem foi exportado para ser usado posteriormente no projeto. 
 
-[Vídeo de apresentação do humano virtual.](./assets/MetaHuman_Creator_-_Google_Chrome_2024-11-26_11-47-31.mp4)
+[Vídeo de apresentação](https://github.com/user-attachments/assets/b182e6c4-423b-45bf-b5c0-1b855b95087b)
 
 Vídeo de apresentação do humano virtual.
 
@@ -55,11 +55,11 @@ Usamos a ferramenta de criação de uma voz personalizada do ElevenLabs, gerado 
 
 **Versão inicial:**
 
-[v1-waltinho.mp3](./assets/v1-waltinho.mp3)
+[v1-waltinho.webm](https://github.com/user-attachments/assets/f838d83d-58f7-4741-88c9-e55bf74514a4)
 
 **Versão final:**
 
-[v2-waltinho.mp3](./assets/v2-waltinho.mp3)
+[v2-waltinho.webm](https://github.com/user-attachments/assets/c4dbba70-81f3-488a-b456-02c8fa90160f)
 
 # 5. Criação da cena
 
@@ -67,19 +67,23 @@ Utilizamos o motor Unreal Engine 5.5 para a criação da cena de apresentação 
 
 ### 5.1 Demonstração da animação da fala
 
-[Demonstração da animação da fala](./assets/test_voice_01_pros_2024-11-28_12-51-37.mp4)
+[Demonstração da animação da fala](https://github.com/user-attachments/assets/eac8a264-e69b-4451-b9dd-a5258983b677)
 
 Demonstração da animação da fala
 
 ### 5.2 Demonstração da implementação do áudio na animação
 
-[Demonstração da implementação do áudio na animação](./assets/test_voice_2024-11-28_12-24-10.mp4)
+
+https://github.com/user-attachments/assets/ace9feba-55ee-4e7c-88ff-137914fa78f4
+
 
 Demonstração da implementação do áudio na animação
 
 ### 5.3 Demonstração da implementação da animação de fala no personagem
 
-[Demonstração da implementação da animação de fala no personagem](./assets/M12S2Ponds__Unreal_Editor_2024-11-28_13-03-38.mp4)
+
+https://github.com/user-attachments/assets/211e1355-d697-41ee-9480-a22b9b999c8c
+
 
 Demonstração da implementação da animação de fala no personagem
 
@@ -89,13 +93,18 @@ Baseado no tutorial do YouTuber MR GFX Unreal e utilizando assets gratuitos da b
 
 ### 6.1 Demonstração da implementação de animação corporal e cenário de laboratório
 
-[Demonstração da implementação de animação corporal e cenário de laboratório.](./assets/M12S2Ponds__Unreal_Editor_2024-11-28_13-13-32.mp4)
+
+https://github.com/user-attachments/assets/88fd4dd9-de19-4302-83aa-f61639cd67d0
+
 
 Demonstração da implementação de animação corporal e cenário de laboratório.
 
 ### 6.2 Testagem do modo câmera para definição do enquadramento e gravação
 
-[Testagem do modo câmera para definição do enquadramento e gravação.](./assets/M12S2Ponds__Unreal_Editor_2024-11-28_13-22-04.mp4)
+
+
+https://github.com/user-attachments/assets/d6f430c1-3150-491d-9c44-31540e50790f
+
 
 Testagem do modo câmera para definição do enquadramento e gravação.
 
@@ -103,11 +112,13 @@ Testagem do modo câmera para definição do enquadramento e gravação.
 
 Por fim, fizemos a exportação da gravação feita pela câmera do motor, unimos os arquivos de áudio (.wav) e vídeo (.avi) e adicionamos algumas edições usando o Clipchamp, exportamos para .mp4 e subimos no YouTube!
 
-[Vídeo final de apresentação do projeto.](./assets/Waltinho_Blanco.mp4)
+
+https://github.com/user-attachments/assets/3ac47627-9c44-4e60-a175-433ba27a0df6
+
 
 Vídeo final de apresentação do projeto.
 
-https://youtu.be/cD5qMl9XRCI
+[Também, é possível visualizar o resultado no YouTube.](https://youtu.be/cD5qMl9XRCI)
 
 # 8. Referência e créditos
 
